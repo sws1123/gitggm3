@@ -11,3 +11,9 @@ git init :  해당 폴더를 깃에서 관리하는 폴더로 초기화
 git config --global user.name ""
 //깃허브 이메일
 git congig --global user.email ""
+
+파일 변경 -> 스테이징 -> 커밋으로 저장
+스테이징 명령어 : git add 파일명 
+커밋 명령어 :  git commit -m "쓰고싶은 메시지
+
+과제해결
